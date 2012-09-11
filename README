@@ -1,4 +1,5 @@
 bbswitch automatic installer. 
+if you don't know that what is bbswitch let me tell you ! if you have sandy bridge CPU or Ivy Bridge CPU with a nVidia GPU you may sense that your battery decharge fast, it's because you nVidia GPU is on but it don't work. bbswitch disable the nVidia GPU. but you have to run it manually. I wrote a script that install it automatically without any problem if you have sandy or ivy bridge cpu with a nVidia GPU!
 It install's bbswitch dkms ( it works when it detects that you have two gpu in your system ) and run it at boot times.
 It's good for distributions that if the computer have this problem it'll install this automatically. 
 this project is licensed under GPLv3. 
