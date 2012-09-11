@@ -1,0 +1,12 @@
+bbswitch automatic installer. 
+It install's bbswitch dkms ( it works when it detects that you have two gpu in your system ) and run it at boot times.
+It's good for distributions that if the computer have this problem it'll install this automatically. 
+this project is licensed under GPLv3. 
+
+INSTALL
+to install you just need to go to the directory in terminal by cd: 
+	cd PATH
+and then run the script with sudo:
+	sudo ./bbswitch-installer.sh
+
+Be Happy !
